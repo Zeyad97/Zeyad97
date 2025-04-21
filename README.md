@@ -28,5 +28,5 @@
 
 ---
 
-> "Always learning. Always building."
+> "IF IT DOESN'T EXIST , I'LL BUILD IT !"
 
