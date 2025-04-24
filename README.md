@@ -13,7 +13,7 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** C#, Dart, JavaScript, PHP, C/C++
+- **Languages:** C#, Dart, JavaScript, PHP, C/C++ , JAVA
 - **Frameworks & Libraries:** Flutter, React, Node.js, Express
 - **Game Development:** Unity C# , Unreal Engine 5 
 - **Web:** HTML, CSS, JavaScript, PHP, MySQL, MERN Stack
